@@ -1,2 +1,29 @@
 
 /* Your CSS Code here. */
+.holder{
+
+    display: flex;
+
+    justify-content: center;
+
+    text-align: center;
+
+    background-color: black;
+
+    color: white;
+
+    flex-wrap: wrap;
+
+}
+
+Footer
+
+© 2022 GitHub, Inc.
+
+Footer navigation
+
+Terms
+
+Privacy
+
+Security
